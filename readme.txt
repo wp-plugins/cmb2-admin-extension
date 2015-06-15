@@ -32,5 +32,8 @@ CMB2 Admin Extension requires the most current version of the CMB2 plugin. You c
 ### Contribution
 All contributions welcome. If you would like to submit a pull request, please check out the [trunk branch](https://github.com/twoelevenjay/CMB2-Admin-Extension/tree/trunk) and pull request against it. Please read the [CONTRIBUTING](https://github.com/twoelevenjay/CMB2-Admin-Extension/CONTRIBUTING.md) doc for more details.
 
+## 0.0.2 beta 06.15.2015
+* Hide UI for disallowed users. Previously only hid plugin table rows.
+
 ### 0.0.1 beta 06.10.2015
 * Initital release, is working but could use a lot more features.

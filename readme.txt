@@ -1,4 +1,4 @@
-4=== CMB2 ===
+=== CMB2 Admin Extension ===
 Contributors:      twoelevenjay
 Donate link:       http://211j.com
 Tags:              metaboxes, forms, fields, options, settings

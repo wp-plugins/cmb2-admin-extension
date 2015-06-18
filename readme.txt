@@ -22,7 +22,7 @@ CMB2 Admin Extension requires the most current version of the CMB2 plugin. You c
 * None yet, but all are welcome
 
 ### Documentation
-* CMB2 documentation to come. It will be at [the CMB2 Admin Extension wiki](https://github.com/twoelevenjay/CMB2-Admin-Extension/wiki) on github.
+* CMB2 documentation to come. It will be at [the CMB2 Admin Extension wiki](https://github.com/twoelevenjay/CMB2-Admin-Extension/wiki) on GitHub.
 
 ### 3rd Party Resources
 
